@@ -3,7 +3,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/mithuiu21/mithuiu21/blob/main/developer.gif?raw=true" width="500" height="320" />
 
-## I'm a MS Student at UIU, Developer, Researcher!!
+## I'm a Student, Developer, Researcher!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working as a python trainer at Pytech Digital [PTD] 
 - 🌱 I’m currently learning ML & AI.
