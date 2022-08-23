@@ -6,7 +6,7 @@
 
 ## I'm a Student, Developer & Researcher!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working at Pytech Digital [PTD] 
+- 🔭 I’m currently working at Self employed
 - 🌱 I’m currently learning ML & AI.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
